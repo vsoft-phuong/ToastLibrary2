@@ -1,0 +1,4 @@
+rootProject.name='MyFirstLibrary'
+include ':app'
+include ':library2'
+//include ':my-toast-library'
